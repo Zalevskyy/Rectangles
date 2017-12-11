@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Epam_Rectangles\Epam_Rectangles\bin\Debug\Epam_Rectangles.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Epam_Rectangles\Epam_Rectangles\bin\Debug\Epam_Rectangles.exe
+c:\users\admin\documents\visual studio 2015\Projects\Epam_Rectangles\Epam_Rectangles\bin\Debug\Epam_Rectangles.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Epam_Rectangles\Epam_Rectangles\obj\Debug\Epam_Rectangles.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Epam_Rectangles\Epam_Rectangles\obj\Debug\Epam_Rectangles.exe
+c:\users\admin\documents\visual studio 2015\Projects\Epam_Rectangles\Epam_Rectangles\obj\Debug\Epam_Rectangles.pdb
